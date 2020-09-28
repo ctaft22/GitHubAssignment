@@ -2,3 +2,8 @@ Once upon a time there was a student at the University of Wisconsin Madison. The
 during the day, and spending time with friends at night until one day everything changed. All of a sudden the students 
 life turned upside down when they woke up with superpowers, and they were informed that it was their job to save not 
 only Madison, but also the world.
+
+The power they have is when they all think about the same thing, their wish will come true. They understand that they need
+to save the world. Unforturnately, they feel that there are too much pressure to do such thing. Therefore, they made a wish 
+to create a super intelligent AI to help them to save the world, all they need to do is to monitor the AI.
+
